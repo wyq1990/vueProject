@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <main-tab-bar></main-tab-bar>
+    <main-tab-bar>底部导航栏</main-tab-bar>
     <router-view/>
   </div>
 </template>
